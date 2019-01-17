@@ -1,7 +1,7 @@
 import json
 import csv
 
-with open('To_parse_flair_list.csv') as csvfile:
+with open('flair_list.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     flairlist = [row['Flair'] for row in reader]
 
