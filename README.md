@@ -18,6 +18,7 @@ Dataset provided by pushshift.io.
 | 347       | Israel              |
 | 308       | Germany             |
 | 291       | European Union      |
+| 88        | Total Average       |
 
 
 # September 2018 top 10 active authors
@@ -34,6 +35,7 @@ Dataset provided by pushshift.io.
 | 269      | Vytautas__           |
 | 269      | TJFortyFour          |
 | 261      | amkaps               |
+| 10.8     | Total Average        |
 
 # October 2018 top 10 active flairs
 
@@ -50,6 +52,7 @@ Dataset provided by pushshift.io.
 | 237      | Turkey               |
 | 218      | Free Syrian Army     |
 | 171      | Israel               |
+| 48       | Total Average        |
 
 
 # October 2018 top 10 active authors
@@ -66,6 +69,7 @@ Dataset provided by pushshift.io.
 | 164      | HTS-got-Damascus     |
 | 138      | The_Living_Martyr    |
 | 127      | amkaps               |
+| 7.7      | Total Average        |
 
 # November 2018 top 10 active flairs
 
@@ -81,6 +85,7 @@ Dataset provided by pushshift.io.
 | 189      | Free Syrian Army        |
 | 177      | Turkey                  |
 | 172      | Syrian Democratic Forces|
+| 48       | Total Average           |
 
 # November 2018 top 10 active authors
 
@@ -96,3 +101,4 @@ Dataset provided by pushshift.io.
 | 159      | tansim               |
 | 144      | VeganMutantNinjaTurt |
 | 141      | MuzzleO              |
+| 7.9      | Total Average        |
